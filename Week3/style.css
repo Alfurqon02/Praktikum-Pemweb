@@ -1,0 +1,7 @@
+ul li a{
+    cursor: pointer;
+}
+
+html, body{
+    scroll-behavior: smooth;
+}
